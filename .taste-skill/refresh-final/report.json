@@ -1,0 +1,2295 @@
+{
+ "url": "http://127.0.0.1:5174",
+ "at": "2026-10-22T16:17:51.420Z",
+ "allow": [
+  "few-pictures",
+  "small-text",
+  "hairline",
+  "eyebrow"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.37,
+    0.16,
+    0.87,
+    0.48,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 8,
+    "css": 8,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4788,
+     "screens": 5.3,
+     "words": 494,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 39,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "40%",
+     "words": 1,
+     "chars": 3,
+     "lines": 1,
+     "size": 136.8,
+     "vw": 9.5,
+     "font": "Epilogue Variable",
+     "weight": 500,
+     "tracking": -0.08,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.27,
+     "top": 289,
+     "tag": "p",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Fullstack developer.",
+     "words": 2,
+     "lines": 2,
+     "size": 123.8,
+     "font": "Epilogue Variable"
+    },
+    "headings": [
+     {
+      "text": "Fullstack developer.",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 123.8,
+      "vw": 8.6,
+      "font": "Epilogue Variable",
+      "weight": 550,
+      "tracking": -0.085,
+      "leading": 0.99,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 209,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "40%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 136.8,
+      "vw": 9.5,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.08,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.27,
+      "top": 289,
+      "tag": "p",
+      "kind": "heading"
+     },
+     {
+      "text": "Reduction in project backlogs.",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 27.4,
+      "vw": 1.9,
+      "font": "Epilogue Variable",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.27,
+      "top": 433,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "10+",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.07,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.05,
+      "top": 725,
+      "tag": "strong",
+      "kind": "statement"
+     },
+     {
+      "text": "Selected work.",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 61.9,
+      "vw": 4.3,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 900,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work. Good teams.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 61.9,
+      "vw": 4.3,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 1928,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Senior Software Engineer",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 2.1,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.42,
+      "top": 2130,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "More experience.",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 61.9,
+      "vw": 4.3,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 2699,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hi, I’m Erwin.",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 61.9,
+      "vw": 4.3,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 3486,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build something useful.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 105.1,
+      "vw": 7.3,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.075,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4320,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Epilogue Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      19,
+      22,
+      27,
+      30,
+      48,
+      62,
+      79,
+      105,
+      124,
+      137
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Epilogue Variable",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.1
+     },
+     "measureChars": 85,
+     "max": {
+      "size": 136.8,
+      "vw": 9.5,
+      "font": "Epilogue Variable",
+      "text": "40"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Software engineer · Quezon City, PH",
+      "above": "Fullstack developer.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 143
+     },
+     {
+      "text": "Designly / Cloudstaff",
+      "above": "40%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 241
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f7f8",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.07,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eeeef0",
+       "top": 1824,
+       "hsl": {
+        "h": 240,
+        "s": 0.06,
+        "l": 0.94
+       }
+      },
+      {
+       "color": "#202123",
+       "top": 4146,
+       "hsl": {
+        "h": 220,
+        "s": 0.04,
+        "l": 0.13
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#202123",
+       "share": 0.57
+      },
+      {
+       "color": "#62636a",
+       "share": 0.36
+      },
+      {
+       "color": "#f7f7f8",
+       "share": 0.05
+      },
+      {
+       "color": "#cbcbce",
+       "share": 0.02
+      },
+      {
+       "color": "#171717",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#202123",
+      "hsl": {
+       "h": 220,
+       "s": 0.04,
+       "l": 0.13
+      },
+      "fg": "#f7f7f8"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 47,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore my work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 12,
+     "hairlineSamples": [
+      "div.hero-bottom 1296px",
+      "article#project-designly.project-row.reveal 1296px",
+      "article#project-bus-reservation.project-row.reveal 1296px",
+      "article#project-elmo-classroom.project-row.reveal 1296px",
+      "article#project-health-metrics.project-row.reveal 1296px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 108,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "epilogue variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4788,
+    "margins": {
+     "left": 72,
+     "right": 74
+    },
+    "sections": [
+     {
+      "sel": "section.hero.page-width",
+      "tag": "section",
+      "top": 108,
+      "height": 713,
+      "words": 66,
+      "media": 0,
+      "middle": 34,
+      "heading": {
+       "text": "40",
+       "size": 137,
+       "tag": "p"
+      },
+      "left": 72,
+      "right": 72,
+      "textLeft": 72,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#work.work.section-pad",
+      "tag": "section",
+      "top": 821,
+      "height": 1003,
+      "words": 182,
+      "media": 0,
+      "middle": 39,
+      "heading": {
+       "text": "Selected work.",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 72,
+      "textLeft": 72,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.experience.section-pad",
+      "tag": "section",
+      "top": 1824,
+      "height": 771,
+      "words": 66,
+      "media": 0,
+      "middle": 130,
+      "heading": {
+       "text": "Good work.",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 112,
+      "textLeft": 72,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#more-work.archive.section-pad",
+      "tag": "section",
+      "top": 2595,
+      "height": 787,
+      "words": 226,
+      "media": 0,
+      "middle": 180,
+      "heading": {
+       "text": "More experience.",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 72,
+      "textLeft": 72,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about.section-pad",
+      "tag": "section",
+      "top": 3382,
+      "height": 764,
+      "words": 143,
+      "media": 0,
+      "middle": 278,
+      "heading": {
+       "text": "Hi, I’m Erwin.",
+       "size": 62,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 87,
+      "textLeft": 72,
+      "textRight": 87,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact.section-pad",
+      "tag": "footer",
+      "top": 4146,
+      "height": 642,
+      "words": 22,
+      "media": 0,
+      "middle": 309,
+      "heading": {
+       "text": "Let’s build",
+       "size": 105,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 98,
+      "textLeft": 72,
+      "textRight": 98,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Fullstack developer.",
+      "size": 124,
+      "top": 209,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 72,
+      "n": 20
+     },
+     {
+      "x": 804,
+      "n": 5
+     },
+     {
+      "x": 486,
+      "n": 4
+     },
+     {
+      "x": 759,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 31,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.13,
+    "voidBox": {
+     "x": 0,
+     "y": 780,
+     "w": 1440,
+     "h": 120
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.3,
+    0.26,
+    0.77,
+    0.88,
+    1
+   ],
+   "motion": {
+    "elements": 8,
+    "css": 8,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4858,
+     "screens": 4.7,
+     "words": 494,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 39,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "40%",
+     "words": 1,
+     "chars": 3,
+     "lines": 1,
+     "size": 100,
+     "vw": 13,
+     "font": "Epilogue Variable",
+     "weight": 500,
+     "tracking": -0.08,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.28,
+     "top": 287,
+     "tag": "p",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Fullstack developer.",
+     "words": 2,
+     "lines": 2,
+     "size": 70,
+     "font": "Epilogue Variable"
+    },
+    "headings": [
+     {
+      "text": "Fullstack developer.",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 70,
+      "vw": 9.1,
+      "font": "Epilogue Variable",
+      "weight": 550,
+      "tracking": -0.085,
+      "leading": 0.99,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 209,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "40%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 100,
+      "vw": 13,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.08,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.28,
+      "top": 287,
+      "tag": "p",
+      "kind": "heading"
+     },
+     {
+      "text": "10+",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.07,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 660,
+      "tag": "strong",
+      "kind": "statement"
+     },
+     {
+      "text": "Selected work.",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 37,
+      "vw": 4.8,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 842,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work. Good teams.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 37,
+      "vw": 4.8,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 2140,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Senior Software Engineer",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 2288,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "More experience.",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 37,
+      "vw": 4.8,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 2828,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hi, I’m Erwin.",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 37,
+      "vw": 4.8,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 3541,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What I work with",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 27,
+      "vw": 3.5,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.41,
+      "top": 3547,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build something useful.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 56.1,
+      "vw": 7.3,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.075,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4444,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Epilogue Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      20,
+      22,
+      27,
+      30,
+      37,
+      48,
+      56,
+      58,
+      70,
+      100
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Epilogue Variable",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": -0.025,
+      "contrast": 15.1
+     },
+     "measureChars": 85,
+     "max": {
+      "size": 100,
+      "vw": 13,
+      "font": "Epilogue Variable",
+      "text": "40"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Software engineer · Quezon City, PH",
+      "above": "Fullstack developer.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 143
+     },
+     {
+      "text": "Designly / Cloudstaff",
+      "above": "40%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 239
+     },
+     {
+      "text": "PHP · MySQL · JavaScript · AJAX",
+      "above": "Hi, I’m Erwin.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 3478
+     },
+     {
+      "text": "PHP · MySQL · JavaScript · AJAX",
+      "above": "What I work with",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 3478
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f7f8",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.07,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eeeef0",
+       "top": 2060,
+       "hsl": {
+        "h": 240,
+        "s": 0.06,
+        "l": 0.94
+       }
+      },
+      {
+       "color": "#202123",
+       "top": 4255,
+       "hsl": {
+        "h": 220,
+        "s": 0.04,
+        "l": 0.13
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#202123",
+       "share": 0.57
+      },
+      {
+       "color": "#62636a",
+       "share": 0.36
+      },
+      {
+       "color": "#f7f7f8",
+       "share": 0.05
+      },
+      {
+       "color": "#cbcbce",
+       "share": 0.02
+      },
+      {
+       "color": "#171717",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#202123",
+      "hsl": {
+       "h": 220,
+       "s": 0.04,
+       "l": 0.13
+      },
+      "fg": "#f7f7f8"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 47,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore my work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 12,
+     "hairlineSamples": [
+      "div.hero-bottom 691px",
+      "article#project-designly.project-row.reveal 691px",
+      "article#project-bus-reservation.project-row.reveal 691px",
+      "article#project-elmo-classroom.project-row.reveal 691px",
+      "article#project-health-metrics.project-row.reveal 691px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 932
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 108,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "epilogue variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4858,
+    "margins": {
+     "left": 38,
+     "right": 40
+    },
+    "sections": [
+     {
+      "sel": "section.hero.page-width",
+      "tag": "section",
+      "top": 108,
+      "height": 648,
+      "words": 66,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "40",
+       "size": 100,
+       "tag": "p"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#work.work.section-pad",
+      "tag": "section",
+      "top": 756,
+      "height": 1304,
+      "words": 182,
+      "media": 0,
+      "middle": 51,
+      "heading": {
+       "text": "Selected work.",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.experience.section-pad",
+      "tag": "section",
+      "top": 2060,
+      "height": 681,
+      "words": 66,
+      "media": 0,
+      "middle": 44,
+      "heading": {
+       "text": "Good work.",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 40,
+      "textLeft": 38,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#more-work.archive.section-pad",
+      "tag": "section",
+      "top": 2741,
+      "height": 719,
+      "words": 226,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "More experience.",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about.section-pad",
+      "tag": "section",
+      "top": 3461,
+      "height": 795,
+      "words": 143,
+      "media": 0,
+      "middle": 58,
+      "heading": {
+       "text": "Hi, I’m Erwin.",
+       "size": 37,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 55,
+      "textLeft": 38,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact.section-pad",
+      "tag": "footer",
+      "top": 4255,
+      "height": 603,
+      "words": 22,
+      "media": 0,
+      "middle": 79,
+      "heading": {
+       "text": "Let’s build",
+       "size": 56,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 64,
+      "textLeft": 38,
+      "textRight": 64,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Fullstack developer.",
+      "size": 70,
+      "top": 209,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 38,
+      "n": 20
+     },
+     {
+      "x": 412,
+      "n": 5
+     },
+     {
+      "x": 330,
+      "n": 4
+     },
+     {
+      "x": 384,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 31,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.6,
+    0.35,
+    0.48,
+    0.86,
+    0.75,
+    0.9,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 8,
+    "css": 8,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6272,
+     "screens": 7.4,
+     "words": 476,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 39,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "40%",
+     "words": 1,
+     "chars": 3,
+     "lines": 1,
+     "size": 100,
+     "vw": 25.6,
+     "font": "Epilogue Variable",
+     "weight": 500,
+     "tracking": -0.08,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.76,
+     "top": 580,
+     "tag": "p",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Fullstack developer.",
+     "words": 2,
+     "lines": 2,
+     "size": 62,
+     "font": "Epilogue Variable"
+    },
+    "headings": [
+     {
+      "text": "Fullstack developer.",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 62,
+      "vw": 15.9,
+      "font": "Epilogue Variable",
+      "weight": 550,
+      "tracking": -0.08,
+      "leading": 0.99,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 196,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "40%",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 100,
+      "vw": 25.6,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.08,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 580,
+      "tag": "p",
+      "kind": "heading"
+     },
+     {
+      "text": "Reduction in project backlogs.",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Epilogue Variable",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 692,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "10+",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.07,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.15,
+      "top": 961,
+      "tag": "strong",
+      "kind": "statement"
+     },
+     {
+      "text": "Selected work.",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 35,
+      "vw": 9,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1181,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Designly",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1344,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Bus Ticket Reservation",
+      "words": 3,
+      "chars": 22,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1687,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ELMO Classroom",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2082,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Health Metrics",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2425,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Good work. Good teams.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 35,
+      "vw": 9,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2843,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Senior Software Engineer",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 3124,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "More experience.",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 35,
+      "vw": 9,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3900,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hi, I’m Erwin.",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 35,
+      "vw": 9,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.065,
+      "leading": 1.07,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4627,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What I work with",
+      "words": 4,
+      "chars": 16,
+      "lines": 1,
+      "size": 27,
+      "vw": 6.9,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.045,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5281,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build something useful.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.075,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5959,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Erwin Lopez.",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Epilogue Variable",
+      "weight": 550,
+      "tracking": -0.06,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6166,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 16,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Epilogue Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      22,
+      24,
+      27,
+      35,
+      36,
+      42,
+      58,
+      62,
+      100
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "Epilogue Variable",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.1
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 100,
+      "vw": 25.6,
+      "font": "Epilogue Variable",
+      "text": "40"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 11
+    },
+    "eyebrows": [
+     {
+      "text": "Open to opportunities",
+      "above": "Fullstack developer.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 146
+     },
+     {
+      "text": "Designly / Cloudstaff",
+      "above": "40%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 540
+     },
+     {
+      "text": "PHP · Microsoft SQL Server · JavaScript",
+      "above": "Hi, I’m Erwin.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 4570
+     },
+     {
+      "text": "English & Filipino · Fluent",
+      "above": "What I work with",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 5206
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f7f8",
+     "bodyBgHsl": {
+      "h": 240,
+      "s": 0.07,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#202123",
+       "top": 512,
+       "hsl": {
+        "h": 220,
+        "s": 0.04,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#eeeef0",
+       "top": 2778,
+       "hsl": {
+        "h": 240,
+        "s": 0.06,
+        "l": 0.94
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#202123",
+       "share": 0.58
+      },
+      {
+       "color": "#62636a",
+       "share": 0.34
+      },
+      {
+       "color": "#f7f7f8",
+       "share": 0.05
+      },
+      {
+       "color": "#cbcbce",
+       "share": 0.02
+      },
+      {
+       "color": "#171717",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#202123",
+      "hsl": {
+       "h": 220,
+       "s": 0.04,
+       "l": 0.13
+      },
+      "fg": "#f7f7f8"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 47,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore my work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 12,
+     "hairlineSamples": [
+      "div.hero-bottom 343px",
+      "article#project-designly.project-row.reveal 343px",
+      "article#project-bus-reservation.project-row.reveal 343px",
+      "article#project-elmo-classroom.project-row.reveal 343px",
+      "article#project-health-metrics.project-row.reveal 343px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1315
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 4,
+     "fixed": false,
+     "height": 90,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "epilogue variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6272,
+    "margins": {
+     "left": 23,
+     "right": 23
+    },
+    "sections": [
+     {
+      "sel": "section.hero.page-width",
+      "tag": "section",
+      "top": 90,
+      "height": 1026,
+      "words": 66,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "40",
+       "size": 100,
+       "tag": "p"
+      },
+      "left": 23,
+      "right": 33,
+      "textLeft": 23,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#work.work.section-pad",
+      "tag": "section",
+      "top": 1116,
+      "height": 1662,
+      "words": 182,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Selected work.",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 24,
+      "textLeft": 23,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.experience.section-pad",
+      "tag": "section",
+      "top": 2778,
+      "height": 1057,
+      "words": 66,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good work.",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 23,
+      "textLeft": 23,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#more-work.archive.section-pad",
+      "tag": "section",
+      "top": 3835,
+      "height": 727,
+      "words": 173,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "More experience.",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 29,
+      "textLeft": 23,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about.section-pad",
+      "tag": "section",
+      "top": 4562,
+      "height": 1237,
+      "words": 143,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Hi, I’m Erwin.",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 24,
+      "textLeft": 23,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact.section-pad",
+      "tag": "footer",
+      "top": 5799,
+      "height": 473,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s build",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 46,
+      "textLeft": 23,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Fullstack developer.",
+      "size": 62,
+      "top": 196,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 23,
+      "n": 32
+     },
+     {
+      "x": 35,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 34,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "16 different font sizes (12, 13, 14, 15, 16, 17, 19, 22, 27, 30, 48, 62, 79, 105, 124, 137).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 8 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 768,
+   "message": "The h1 is a bare name (\"Fullstack developer.\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\refresh-final\\desktop-fold.jpg",
+   "pages": [
+    "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\refresh-final\\desktop-page-01.jpg",
+    "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\refresh-final\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\refresh-final\\tablet-fold.jpg",
+   "pages": [
+    "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\refresh-final\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\refresh-final\\mobile-fold.jpg",
+   "pages": [
+    "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\refresh-final\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

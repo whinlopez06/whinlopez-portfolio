@@ -1,0 +1,2910 @@
+{
+ "url": "http://127.0.0.1:5174",
+ "at": "2026-10-22T15:46:14.040Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.44,
+    0.56,
+    0.52,
+    0.68,
+    0.77,
+    0.94,
+    1
+   ],
+   "motion": {
+    "elements": 8,
+    "css": 8,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6023,
+     "screens": 6.7,
+     "words": 512,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 51,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Erwin Lopez.",
+     "words": 2,
+     "chars": 12,
+     "lines": 2,
+     "size": 132.5,
+     "vw": 9.2,
+     "font": "Fraunces Variable",
+     "weight": 450,
+     "tracking": -0.075,
+     "leading": 0.9,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.38,
+     "top": 219,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Erwin Lopez.",
+     "words": 2,
+     "lines": 2,
+     "size": 132.5,
+     "font": "Fraunces Variable"
+    },
+    "headings": [
+     {
+      "text": "el.",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 47,
+      "vw": 3.3,
+      "font": "Fraunces Variable",
+      "weight": 600,
+      "tracking": -0.106,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 31,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Erwin Lopez.",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 132.5,
+      "vw": 9.2,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.075,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 219,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Slim Framework",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 47.5,
+      "vw": 3.3,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.06,
+      "top": 386,
+      "mixedFonts": [
+       "Fraunces Variable",
+       "Epilogue Variable"
+      ],
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Laravel Backend",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 47.5,
+      "vw": 3.3,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.1,
+      "top": 386,
+      "mixedFonts": [
+       "Fraunces Variable",
+       "Epilogue Variable"
+      ],
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Search Reserve",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 50.4,
+      "vw": 3.5,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 1043,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Classroom Google Drive",
+      "words": 3,
+      "chars": 22,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 1804,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Application Database",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.44,
+      "top": 2466,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Built with good teams.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 3204,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Senior Software Engineer",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.05,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.47,
+      "top": 3370,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "More along the way.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 3880,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What I bring to the build",
+      "words": 6,
+      "chars": 25,
+      "lines": 1,
+      "size": 29,
+      "vw": 2,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.4,
+      "top": 4668,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "I like making the pieces fit.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 4702,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build something useful.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 122.4,
+      "vw": 8.5,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.06,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5515,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 2
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Epilogue Variable",
+       "share": 0.95,
+       "mono": false
+      },
+      {
+       "family": "Fraunces Variable",
+       "share": 0.05,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      23,
+      25,
+      26,
+      29,
+      32,
+      36,
+      47,
+      48,
+      50,
+      58,
+      72,
+      122,
+      133
+     ],
+     "sizeCount": 20,
+     "notLoaded": [],
+     "body": {
+      "font": "Epilogue Variable",
+      "size": 14,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10
+     },
+     "measureChars": 56,
+     "max": {
+      "size": 132.5,
+      "vw": 9.2,
+      "font": "Fraunces Variable",
+      "text": "ErwinLopez."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 48
+    },
+    "eyebrows": [
+     {
+      "text": "The people behind the projects",
+      "above": "Built with good teams.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3164
+     },
+     {
+      "text": "Dec 2021 – Aug 2024",
+      "above": "Senior Software Engineer",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 3336
+     },
+     {
+      "text": "A little about me",
+      "above": "I like making the pieces fit.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4662
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#e8dcc7",
+     "bodyBgHsl": {
+      "h": 38,
+      "s": 0.42,
+      "l": 0.85
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d8cbb2",
+       "top": 3069,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.77
+       }
+      },
+      {
+       "color": "#d9cfba",
+       "top": 4567,
+       "hsl": {
+        "h": 41,
+        "s": 0.29,
+        "l": 0.79
+       }
+      },
+      {
+       "color": "#263126",
+       "top": 5331,
+       "hsl": {
+        "h": 120,
+        "s": 0.13,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#263126",
+       "share": 0.8
+      },
+      {
+       "color": "#58604e",
+       "share": 0.14
+      },
+      {
+       "color": "#e8dcc7",
+       "share": 0.06
+      },
+      {
+       "color": "#c66b3d",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#263126",
+      "hsl": {
+       "h": 120,
+       "s": 0.13,
+       "l": 0.17
+      },
+      "fg": "#e8dcc7"
+     },
+     "lowContrast": [
+      {
+       "text": "Dec 2021 – Aug 2024",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#d8cbb2"
+      },
+      {
+       "text": "Lenovo PCCW Solutions Philippines",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Jun 2017 – Mar 2019",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Lenovo PCCW Solutions Philippines",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "May – Jun 2017",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Allcard Technologies",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore my work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.route-path → linear-gradient(rgb(38, 49, 38), rgb(38, 49, 38))"
+     ],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 4,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 108,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces variable",
+     "epilogue variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6023,
+    "margins": {
+     "left": 72,
+     "right": 85
+    },
+    "sections": [
+     {
+      "sel": "section#work.intro-work",
+      "tag": "section",
+      "top": 108,
+      "height": 2961,
+      "words": 216,
+      "media": 0,
+      "middle": 249,
+      "heading": {
+       "text": "Erwin",
+       "size": 132,
+       "tag": "h1"
+      },
+      "left": 72,
+      "right": 72,
+      "textLeft": 72,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": true
+     },
+     {
+      "sel": "section#experience.experience.section-pad",
+      "tag": "section",
+      "top": 3069,
+      "height": 706,
+      "words": 69,
+      "media": 0,
+      "middle": 85,
+      "heading": {
+       "text": "Built with good teams.",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 72,
+      "textLeft": 72,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#more-work.archive.section-pad",
+      "tag": "section",
+      "top": 3775,
+      "height": 792,
+      "words": 229,
+      "media": 0,
+      "middle": 253,
+      "heading": {
+       "text": "More along the way.",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 72,
+      "textLeft": 72,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about.section-pad",
+      "tag": "section",
+      "top": 4567,
+      "height": 764,
+      "words": 187,
+      "media": 0,
+      "middle": 334,
+      "heading": {
+       "text": "I like making",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 306,
+      "textLeft": 72,
+      "textRight": 306,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact.section-pad",
+      "tag": "footer",
+      "top": 5331,
+      "height": 693,
+      "words": 22,
+      "media": 0,
+      "middle": 220,
+      "heading": {
+       "text": "Let’s build",
+       "size": 122,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 98,
+      "textLeft": 72,
+      "textRight": 98,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Erwin Lopez.",
+      "size": 132,
+      "top": 219,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 72,
+      "n": 10
+     },
+     {
+      "x": 97,
+      "n": 6
+     },
+     {
+      "x": 668,
+      "n": 4
+     },
+     {
+      "x": 693,
+      "n": 2
+     },
+     {
+      "x": 798,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.14,
+    "voidBox": {
+     "x": 420,
+     "y": 120,
+     "w": 240,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.53,
+    0.47,
+    0.66,
+    0.84,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 8,
+    "css": 8,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5122,
+     "screens": 5,
+     "words": 512,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 51,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Erwin Lopez.",
+     "words": 2,
+     "chars": 12,
+     "lines": 2,
+     "size": 90,
+     "vw": 11.7,
+     "font": "Fraunces Variable",
+     "weight": 450,
+     "tracking": -0.075,
+     "leading": 0.9,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.35,
+     "top": 204,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Erwin Lopez.",
+     "words": 2,
+     "lines": 2,
+     "size": 90,
+     "font": "Fraunces Variable"
+    },
+    "headings": [
+     {
+      "text": "el.",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 47,
+      "vw": 6.1,
+      "font": "Fraunces Variable",
+      "weight": 600,
+      "tracking": -0.106,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.05,
+      "top": 31,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Erwin Lopez.",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 90,
+      "vw": 11.7,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.075,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 204,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Slim Framework",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.09,
+      "top": 293,
+      "mixedFonts": [
+       "Fraunces Variable",
+       "Epilogue Variable"
+      ],
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Laravel Backend",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 293,
+      "mixedFonts": [
+       "Fraunces Variable",
+       "Epilogue Variable"
+      ],
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Search Reserve",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 34,
+      "vw": 4.4,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 794,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Classroom Google Drive",
+      "words": 3,
+      "chars": 22,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 1370,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Application Database",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 1857,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Built with good teams.",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 2490,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Senior Software Engineer",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.05,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.47,
+      "top": 2636,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "More along the way.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 3112,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What I bring to the build",
+      "words": 6,
+      "chars": 25,
+      "lines": 1,
+      "size": 29,
+      "vw": 3.8,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.41,
+      "top": 3869,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "I like making the pieces fit.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 3903,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build something useful.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 84,
+      "vw": 10.9,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.06,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4725,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Erwin Lopez.",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 5059,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 2
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Epilogue Variable",
+       "share": 0.95,
+       "mono": false
+      },
+      {
+       "family": "Fraunces Variable",
+       "share": 0.05,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      20,
+      26,
+      28,
+      29,
+      32,
+      34,
+      36,
+      38,
+      47,
+      48,
+      84,
+      90
+     ],
+     "sizeCount": 20,
+     "notLoaded": [],
+     "body": {
+      "font": "Epilogue Variable",
+      "size": 14,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.5
+     },
+     "measureChars": 45,
+     "max": {
+      "size": 90,
+      "vw": 11.7,
+      "font": "Fraunces Variable",
+      "text": "ErwinLopez."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 48
+    },
+    "eyebrows": [
+     {
+      "text": "Bus Ticket Reservation",
+      "above": "Search Reserve",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 15,
+      "top": 723
+     },
+     {
+      "text": "Health Metrics",
+      "above": "Application Database",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 15,
+      "top": 1789
+     },
+     {
+      "text": "Dec 2021 – Aug 2024",
+      "above": "Senior Software Engineer",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 2602
+     },
+     {
+      "text": "PHP · MySQL · JavaScript · AJAX",
+      "above": "What I bring to the build",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 3803
+     },
+     {
+      "text": "A little about me",
+      "above": "I like making the pieces fit.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3863
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#e8dcc7",
+     "bodyBgHsl": {
+      "h": 38,
+      "s": 0.42,
+      "l": 0.85
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d8cbb2",
+       "top": 2375,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.77
+       }
+      },
+      {
+       "color": "#d9cfba",
+       "top": 3788,
+       "hsl": {
+        "h": 41,
+        "s": 0.29,
+        "l": 0.79
+       }
+      },
+      {
+       "color": "#263126",
+       "top": 4531,
+       "hsl": {
+        "h": 120,
+        "s": 0.13,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#263126",
+       "share": 0.8
+      },
+      {
+       "color": "#58604e",
+       "share": 0.14
+      },
+      {
+       "color": "#e8dcc7",
+       "share": 0.06
+      },
+      {
+       "color": "#c66b3d",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#263126",
+      "hsl": {
+       "h": 120,
+       "s": 0.13,
+       "l": 0.17
+      },
+      "fg": "#e8dcc7"
+     },
+     "lowContrast": [
+      {
+       "text": "Dec 2021 – Aug 2024",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#d8cbb2"
+      },
+      {
+       "text": "Lenovo PCCW Solutions Philippines",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Jun 2017 – Mar 2019",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Lenovo PCCW Solutions Philippines",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "May – Jun 2017",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Allcard Technologies",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore my work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.route-path → linear-gradient(rgb(38, 49, 38), rgb(38, 49, 38))"
+     ],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 4,
+     "boxRadius": 22,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 108,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces variable",
+     "epilogue variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5122,
+    "margins": {
+     "left": 38,
+     "right": 49
+    },
+    "sections": [
+     {
+      "sel": "section#work.intro-work",
+      "tag": "section",
+      "top": 108,
+      "height": 2267,
+      "words": 216,
+      "media": 0,
+      "middle": 54,
+      "heading": {
+       "text": "Erwin",
+       "size": 90,
+       "tag": "h1"
+      },
+      "left": 38,
+      "right": 38,
+      "textLeft": 38,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": true
+     },
+     {
+      "sel": "section#experience.experience.section-pad",
+      "tag": "section",
+      "top": 2375,
+      "height": 661,
+      "words": 69,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Built with good teams.",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 47,
+      "textLeft": 38,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#more-work.archive.section-pad",
+      "tag": "section",
+      "top": 3037,
+      "height": 751,
+      "words": 229,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "More along the way.",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 58,
+      "textLeft": 38,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about.section-pad",
+      "tag": "section",
+      "top": 3788,
+      "height": 743,
+      "words": 187,
+      "media": 0,
+      "middle": 58,
+      "heading": {
+       "text": "I like making",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 45,
+      "textLeft": 38,
+      "textRight": 45,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact.section-pad",
+      "tag": "footer",
+      "top": 4531,
+      "height": 591,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s build",
+       "size": 84,
+       "tag": "h2"
+      },
+      "left": 38,
+      "right": 64,
+      "textLeft": 38,
+      "textRight": 64,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Erwin Lopez.",
+      "size": 90,
+      "top": 204,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 38,
+      "n": 9
+     },
+     {
+      "x": 63,
+      "n": 6
+     },
+     {
+      "x": 336,
+      "n": 4
+     },
+     {
+      "x": 371,
+      "n": 2
+     },
+     {
+      "x": 412,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 22,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.43,
+    0.68,
+    0.66,
+    0.84,
+    0.75,
+    0.95,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 8,
+    "css": 8,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6388,
+     "screens": 7.6,
+     "words": 496,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 51,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Erwin Lopez.",
+     "words": 2,
+     "chars": 12,
+     "lines": 2,
+     "size": 92,
+     "vw": 23.6,
+     "font": "Fraunces Variable",
+     "weight": 450,
+     "tracking": -0.075,
+     "leading": 0.9,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 158,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Erwin Lopez.",
+     "words": 2,
+     "lines": 2,
+     "size": 92,
+     "font": "Fraunces Variable"
+    },
+    "headings": [
+     {
+      "text": "el.",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Fraunces Variable",
+      "weight": 600,
+      "tracking": -0.125,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 23,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Erwin Lopez.",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 92,
+      "vw": 23.6,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.075,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 158,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Fullstack developer. Connecting the pieces.",
+      "words": 5,
+      "chars": 43,
+      "lines": 2,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Epilogue Variable",
+      "weight": 450,
+      "tracking": -0.045,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 348,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Slim Framework",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 852,
+      "mixedFonts": [
+       "Fraunces Variable",
+       "Epilogue Variable"
+      ],
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Laravel Backend",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 852,
+      "mixedFonts": [
+       "Fraunces Variable",
+       "Epilogue Variable"
+      ],
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Designly",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 1033,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Search Reserve",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.06,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 1306,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Bus Ticket Reservation",
+      "words": 3,
+      "chars": 22,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.56,
+      "top": 1527,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Classroom Google Drive",
+      "words": 3,
+      "chars": 22,
+      "lines": 3,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 1839,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "ELMO Classroom",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 2021,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Application Database",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 2301,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Health Metrics",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Epilogue Variable",
+      "weight": 500,
+      "tracking": -0.06,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 2515,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Built with good teams.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 43,
+      "vw": 11,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 2834,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Senior Software Engineer",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.05,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3441,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "More along the way.",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 43,
+      "vw": 11,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 3809,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "I like making the pieces fit.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 55,
+      "vw": 14.1,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.055,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4621,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What I bring to the build",
+      "words": 6,
+      "chars": 25,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5207,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s build something useful.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 46,
+      "vw": 11.8,
+      "font": "Fraunces Variable",
+      "weight": 450,
+      "tracking": -0.06,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6044,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Erwin Lopez.",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 31,
+      "vw": 7.9,
+      "font": "Fraunces Variable",
+      "weight": 400,
+      "tracking": -0.05,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6269,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 19,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 2
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Epilogue Variable",
+       "share": 0.95,
+       "mono": false
+      },
+      {
+       "family": "Fraunces Variable",
+       "share": 0.05,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      22,
+      23,
+      24,
+      28,
+      30,
+      31,
+      32,
+      39,
+      40,
+      43,
+      46,
+      55,
+      92
+     ],
+     "sizeCount": 21,
+     "notLoaded": [],
+     "body": {
+      "font": "Epilogue Variable",
+      "size": 13,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10
+     },
+     "measureChars": 49,
+     "max": {
+      "size": 92,
+      "vw": 23.6,
+      "font": "Fraunces Variable",
+      "text": "ErwinLopez."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 40
+    },
+    "eyebrows": [
+     {
+      "text": "Open to opportunities",
+      "above": "Erwin Lopez.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 115
+     },
+     {
+      "text": "Designly",
+      "above": "Slim Framework",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 766
+     },
+     {
+      "text": "A stronger foundation.",
+      "above": "Designly",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 975
+     },
+     {
+      "text": "Bus Ticket Reservation",
+      "above": "Search Reserve",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 1260
+     },
+     {
+      "text": "Learning, connected.",
+      "above": "ELMO Classroom",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 9,
+      "top": 1963
+     },
+     {
+      "text": "Health Metrics",
+      "above": "Application Database",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2250
+     },
+     {
+      "text": "The people behind the projects",
+      "above": "Built with good teams.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 2799
+     },
+     {
+      "text": "Dec 2021 – Aug 2024",
+      "above": "Senior Software Engineer",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 11,
+      "top": 3407
+     },
+     {
+      "text": "PHP · MySQL · JavaScript · AJAX",
+      "above": "I like making the pieces fit.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 4599
+     },
+     {
+      "text": "Have a role in mind? Let’s talk",
+      "above": "What I bring to the build",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 5113
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#e8dcc7",
+     "bodyBgHsl": {
+      "h": 38,
+      "s": 0.42,
+      "l": 0.85
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#d8cbb2",
+       "top": 2736,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.77
+       }
+      },
+      {
+       "color": "#d9cfba",
+       "top": 4523,
+       "hsl": {
+        "h": 41,
+        "s": 0.29,
+        "l": 0.79
+       }
+      },
+      {
+       "color": "#263126",
+       "top": 5878,
+       "hsl": {
+        "h": 120,
+        "s": 0.13,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#263126",
+       "share": 0.83
+      },
+      {
+       "color": "#58604e",
+       "share": 0.11
+      },
+      {
+       "color": "#e8dcc7",
+       "share": 0.06
+      },
+      {
+       "color": "#c66b3d",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#263126",
+      "hsl": {
+       "h": 120,
+       "s": 0.13,
+       "l": 0.17
+      },
+      "fg": "#e8dcc7"
+     },
+     "lowContrast": [
+      {
+       "text": "Dec 2021 – Aug 2024",
+       "ratio": 4.1,
+       "need": 4.5,
+       "size": 11,
+       "fg": "#58604e",
+       "bg": "#d8cbb2"
+      },
+      {
+       "text": "Jun 2017 – Mar 2019",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "May – Jun 2017",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Apr – Nov 2016",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Oct 2015 – Mar 2016",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      },
+      {
+       "text": "Apr – Sep 2015",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#58604e",
+       "bg": "#dfd2ba"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore my work"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.route-path → linear-gradient(rgb(38, 49, 38), rgb(38, 49, 38))"
+     ],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 4,
+     "boxRadius": 20,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 85,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "fraunces variable",
+     "epilogue variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6388,
+    "margins": {
+     "left": 23,
+     "right": 23
+    },
+    "sections": [
+     {
+      "sel": "div.intro",
+      "tag": "div",
+      "top": 95,
+      "height": 546,
+      "words": 42,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Erwin",
+       "size": 92,
+       "tag": "h1"
+      },
+      "left": 23,
+      "right": 69,
+      "textLeft": 23,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.project-item.reveal",
+      "tag": "article",
+      "top": 737,
+      "height": 446,
+      "words": 41,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Slim",
+       "size": 32,
+       "tag": "div"
+      },
+      "left": 23,
+      "right": 40,
+      "textLeft": 23,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.project-item.reveal",
+      "tag": "article",
+      "top": 1231,
+      "height": 446,
+      "words": 44,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Search",
+       "size": 39,
+       "tag": "span"
+      },
+      "left": 23,
+      "right": 35,
+      "textLeft": 23,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.project-item.reveal",
+      "tag": "article",
+      "top": 1726,
+      "height": 446,
+      "words": 39,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Classroom",
+       "size": 24,
+       "tag": "span"
+      },
+      "left": 23,
+      "right": 47,
+      "textLeft": 23,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.project-item.reveal",
+      "tag": "article",
+      "top": 2220,
+      "height": 446,
+      "words": 42,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Application",
+       "size": 30,
+       "tag": "span"
+      },
+      "left": 23,
+      "right": 25,
+      "textLeft": 23,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.experience.section-pad",
+      "tag": "section",
+      "top": 2736,
+      "height": 1011,
+      "words": 69,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Built with good teams.",
+       "size": 43,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 23,
+      "textLeft": 23,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#more-work.archive.section-pad",
+      "tag": "section",
+      "top": 3746,
+      "height": 777,
+      "words": 183,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "More along the way.",
+       "size": 43,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 41,
+      "textLeft": 23,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.about-intro",
+      "tag": "div",
+      "top": 4586,
+      "height": 571,
+      "words": 101,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "I like making",
+       "size": 55,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 28,
+      "textLeft": 23,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.capabilities",
+      "tag": "div",
+      "top": 5157,
+      "height": 658,
+      "words": 86,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What I bring to the build",
+       "size": 28,
+       "tag": "h3"
+      },
+      "left": 23,
+      "right": 30,
+      "textLeft": 23,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer#contact.contact.section-pad",
+      "tag": "footer",
+      "top": 5878,
+      "height": 510,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s build",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 23,
+      "right": 28,
+      "textLeft": 23,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Erwin Lopez.",
+      "size": 92,
+      "top": 158,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 23,
+      "n": 16
+     }
+    ],
+    "leftBlocks": 16,
+    "bodySize": 13,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "mixed-font-headline",
+   "width": 1440,
+   "message": "2 headline(s) switch typeface or to italic mid-line (the \"one italic serif word\" move).",
+   "fix": "Set the whole headline in one face. Emphasis comes from the words.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "3 eyebrow/kicker label(s) above headings: \"The people behind the projects\" above \"Built with good teams.\"; \"Dec 2021 – Aug 2024\" above \"Senior Software Engineer\"; \"A little about me\" above \"I like making the pieces fit.\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "1 gradient fill(s): div.route-path → linear-gradient(rgb(38, 49, 38), rgb(38, 49, 38))",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Low-contrast text: \"Dec 2021 – Aug 2024\" 4.1:1 needs 4.5:1; \"Lenovo PCCW Solutions Philippines\" 4.4:1 needs 4.5:1; \"Jun 2017 – Mar 2019\" 4.4:1 needs 4.5:1; \"Lenovo PCCW Solutions Philippines\" 4.4:1 needs 4.5:1",
+   "fix": "Darken or lighten the text colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "20 different font sizes (10, 11, 12, 13, 14, 15, 16, 23, 25, 26, 29, 32, 36, 47, 48, 50, 58, 72, 122, 133).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 14px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "48 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 1440,
+   "message": "The h1 is a bare name (\"Erwin Lopez.\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "long-pin",
+   "width": 1440,
+   "message": "The same large text stays on screen for 3 screens in a row: \"Erwin Lopez.\"",
+   "fix": "A pinned element earns two screens, and something must change at each. Shorten the run or give every screen its own content."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 8 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"Classroom Google Drive\" → 3 lines (3 words, 24px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\inspect\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\inspect\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "C:\\workplace\\Codex\\My Portfolio Site\\.taste-skill\\inspect\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

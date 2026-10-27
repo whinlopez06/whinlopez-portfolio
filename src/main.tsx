@@ -17,7 +17,7 @@ function Arrow({ diagonal = false }: { diagonal?: boolean }) {
 function Header() {
   return <header className="header page-width">
     <Link className="wordmark" to="/#top" aria-label="Erwin Lopez home">Erwin Lopez<span>.</span></Link>
-    <nav aria-label="Main navigation"><a href="/#experience">Experience</a><a href="/#work">Work</a><a href="/#about">About</a></nav>
+    <nav aria-label="Main navigation"><a href="#experience">Experience</a><a href="#work">Work</a><a href="#about">About</a></nav>
     <a className="header-contact" href={'mailto:' + email}>Let’s talk <Arrow diagonal /></a>
   </header>;
 }
@@ -169,5 +169,5 @@ function Content() {
   </div>;
 }
 
-createRoot(document.getElementById('root')!).render(<React.StrictMode><BrowserRouter><Content /></BrowserRouter></React.StrictMode>);
+createRoot(document.getElementById('root')!).render(<React.StrictMode><BrowserRouter basename="/whinlopez-portfolio"><Content /></BrowserRouter></React.StrictMode>);
 
